@@ -135,11 +135,3 @@ The model was tested on 20% of sessions (16 sessions, 100 windows) that were nev
 4. Run all cells from top to bottom
 
 ---
-
-## Task Allocation
-
-This project was completed individually.
-
-| Contributor | Tasks | Contribution |
-|-------------|-------|--------------|
-| Samuel Mwania | Data collection, preprocessing, feature extraction, HMM implementation (Baum-Welch and Viterbi from scratch), evaluation, visualization, report | 100% |
